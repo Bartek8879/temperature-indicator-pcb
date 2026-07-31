@@ -1,4 +1,6 @@
 # temperature-indicator-pcb
+
+## Overview
 This project presents a custom PCB design of an analog temperature indicator based on the LM35 temperature sensor and the LM3914 LED driver.
 
 ## Features
